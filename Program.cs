@@ -8,6 +8,7 @@ namespace LightsOut
 {
 	static class Program
 	{
+		/// Hey
 		/// <summary>
 		/// The main entry point for the application.
 		/// </summary>
